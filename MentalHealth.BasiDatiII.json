@@ -1,0 +1,1615 @@
+[{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd143"
+  },
+  "Timestamp": "8/7/2020 12:02",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd144"
+  },
+  "Timestamp": "8/7/2020 12:04",
+  "Choose your gender": "Male",
+  "Age": 21,
+  "What is your course?": "Islamic education",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd145"
+  },
+  "Timestamp": "8/7/2020 12:05",
+  "Choose your gender": "Male",
+  "Age": 19,
+  "What is your course?": "BIT",
+  "Your current year of Study": "Year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd146"
+  },
+  "Timestamp": "8/7/2020 12:06",
+  "Choose your gender": "Female",
+  "Age": 22,
+  "What is your course?": "Laws",
+  "Your current year of Study": "year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd147"
+  },
+  "Timestamp": "8/7/2020 12:13",
+  "Choose your gender": "Male",
+  "Age": 23,
+  "What is your course?": "Mathemathics",
+  "Your current year of Study": "year 4",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd148"
+  },
+  "Timestamp": "8/7/2020 12:31",
+  "Choose your gender": "Male",
+  "Age": 19,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd149"
+  },
+  "Timestamp": "8/7/2020 12:32",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "Pendidikan islam",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.50 - 4.00 ",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd14a"
+  },
+  "Timestamp": "8/7/2020 12:33",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd14b"
+  },
+  "Timestamp": "8/7/2020 12:35",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Human Resources",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "2.50 - 2.99",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd14c"
+  },
+  "Timestamp": "8/7/2020 12:39",
+  "Choose your gender": "Male",
+  "Age": 18,
+  "What is your course?": "Irkhs",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd14d"
+  },
+  "Timestamp": "8/7/2020 12:39",
+  "Choose your gender": "Female",
+  "Age": 20,
+  "What is your course?": "Psychology",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd14e"
+  },
+  "Timestamp": "8/7/2020 12:39",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd14f"
+  },
+  "Timestamp": "8/7/2020 12:40",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd150"
+  },
+  "Timestamp": "8/7/2020 12:41",
+  "Choose your gender": "Male",
+  "Age": 19,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd151"
+  },
+  "Timestamp": "8/7/2020 12:43",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "KENMS",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd152"
+  },
+  "Timestamp": "8/7/2020 12:43",
+  "Choose your gender": "Male",
+  "Age": 24,
+  "What is your course?": "BCS",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd153"
+  },
+  "Timestamp": "8/7/2020 12:46",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Accounting ",
+  "Your current year of Study": "year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd154"
+  },
+  "Timestamp": "8/7/2020 12:52",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "ENM",
+  "Your current year of Study": "year 4",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd155"
+  },
+  "Timestamp": "8/7/2020 13:05",
+  "Choose your gender": "Female",
+  "Age": 20,
+  "What is your course?": "BIT",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd156"
+  },
+  "Timestamp": "8/7/2020 13:07",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Marine science",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd157"
+  },
+  "Timestamp": "8/7/2020 13:12",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd158"
+  },
+  "Timestamp": "8/7/2020 13:13",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "KOE",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd159"
+  },
+  "Timestamp": "8/7/2020 13:13",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd15a"
+  },
+  "Timestamp": "8/7/2020 13:15",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd15b"
+  },
+  "Timestamp": "8/7/2020 13:17",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "BCS",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd15c"
+  },
+  "Timestamp": "8/7/2020 13:29",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Banking Studies",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd15d"
+  },
+  "Timestamp": "8/7/2020 13:35",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd15e"
+  },
+  "Timestamp": "8/7/2020 13:41",
+  "Choose your gender": "Male",
+  "Age": 18,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd15f"
+  },
+  "Timestamp": "8/7/2020 13:58",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "BIT",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "Yes"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd160"
+  },
+  "Timestamp": "8/7/2020 14:05",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 4",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd161"
+  },
+  "Timestamp": "8/7/2020 14:27",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "Business Administration",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd162"
+  },
+  "Timestamp": "8/7/2020 14:29",
+  "Choose your gender": "Male",
+  "Age": 18,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd163"
+  },
+  "Timestamp": "8/7/2020 14:29",
+  "Choose your gender": "Male",
+  "Age": 19,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd164"
+  },
+  "Timestamp": "8/7/2020 14:31",
+  "Choose your gender": "Male",
+  "Age": 18,
+  "What is your course?": "BCS",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "Yes"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd165"
+  },
+  "Timestamp": "8/7/2020 14:41",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "BIT",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd166"
+  },
+  "Timestamp": "8/7/2020 14:43",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "2.00 - 2.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd167"
+  },
+  "Timestamp": "8/7/2020 14:43",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Law",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd168"
+  },
+  "Timestamp": "8/7/2020 14:45",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "BIT",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "2.50 - 2.99",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd169"
+  },
+  "Timestamp": "8/7/2020 14:47",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "KIRKHS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd16a"
+  },
+  "Timestamp": "8/7/2020 14:56",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "2.50 - 2.99",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "Yes"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd16b"
+  },
+  "Timestamp": "8/7/2020 14:57",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "BIT",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd16c"
+  },
+  "Timestamp": "8/7/2020 14:57",
+  "Choose your gender": "Female",
+  "Age": 22,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 4",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd16d"
+  },
+  "Timestamp": "8/7/2020 14:58",
+  "Choose your gender": "Female",
+  "Age": 20,
+  "What is your course?": "Usuluddin ",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd16e"
+  },
+  "Timestamp": "8/7/2020 15:07",
+  "Choose your gender": "Male",
+  "What is your course?": "BIT",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "0 - 1.99",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd16f"
+  },
+  "Timestamp": "8/7/2020 15:08",
+  "Choose your gender": "Male",
+  "Age": 23,
+  "What is your course?": "TAASL",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd170"
+  },
+  "Timestamp": "8/7/2020 15:09",
+  "Choose your gender": "Male",
+  "Age": 18,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd171"
+  },
+  "Timestamp": "8/7/2020 15:12",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd172"
+  },
+  "Timestamp": "8/7/2020 15:14",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Engine",
+  "Your current year of Study": "year 4",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd173"
+  },
+  "Timestamp": "8/7/2020 15:14",
+  "Choose your gender": "Male",
+  "Age": 24,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd174"
+  },
+  "Timestamp": "8/7/2020 15:18",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd175"
+  },
+  "Timestamp": "8/7/2020 15:27",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "ALA",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "2.50 - 2.99",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "Yes"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd176"
+  },
+  "Timestamp": "8/7/2020 15:37",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd177"
+  },
+  "Timestamp": "8/7/2020 15:47",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Biomedical science",
+  "Your current year of Study": "year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd178"
+  },
+  "Timestamp": "8/7/2020 15:48",
+  "Choose your gender": "Female",
+  "Age": 20,
+  "What is your course?": "koe",
+  "Your current year of Study": "year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd179"
+  },
+  "Timestamp": "8/7/2020 15:57",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "Yes"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd17a"
+  },
+  "Timestamp": "8/7/2020 15:58",
+  "Choose your gender": "Male",
+  "Age": 21,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd17b"
+  },
+  "Timestamp": "8/7/2020 16:08",
+  "Choose your gender": "Male",
+  "Age": 23,
+  "What is your course?": "Kirkhs",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd17c"
+  },
+  "Timestamp": "8/7/2020 16:21",
+  "Choose your gender": "Female",
+  "Age": 20,
+  "What is your course?": "BENL",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd17d"
+  },
+  "Timestamp": "8/7/2020 16:22",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd17e"
+  },
+  "Timestamp": "8/7/2020 16:34",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "Benl",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd17f"
+  },
+  "Timestamp": "8/7/2020 16:34",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "IT",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd180"
+  },
+  "Timestamp": "8/7/2020 16:53",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd181"
+  },
+  "Timestamp": "8/7/2020 17:05",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "CTS",
+  "Your current year of Study": "Year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd182"
+  },
+  "Timestamp": "8/7/2020 17:37",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "engin",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd183"
+  },
+  "Timestamp": "8/7/2020 17:46",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Engine",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd184"
+  },
+  "Timestamp": "8/7/2020 17:50",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "Econs",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd185"
+  },
+  "Timestamp": "8/7/2020 18:10",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "KOE",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd186"
+  },
+  "Timestamp": "8/7/2020 18:11",
+  "Choose your gender": "Male",
+  "Age": 19,
+  "What is your course?": "MHSC",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd187"
+  },
+  "Timestamp": "8/7/2020 19:05",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Malcom",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd188"
+  },
+  "Timestamp": "8/7/2020 19:32",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Kop",
+  "Your current year of Study": "year 4",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd189"
+  },
+  "Timestamp": "8/7/2020 20:36",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Biomedical science",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd18a"
+  },
+  "Timestamp": "8/7/2020 21:21",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Laws",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd18b"
+  },
+  "Timestamp": "8/7/2020 22:35",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "BIT",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd18c"
+  },
+  "Timestamp": "9/7/2020 6:57",
+  "Choose your gender": "Male",
+  "Age": 18,
+  "What is your course?": "Biomedical science",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "0 - 1.99",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd18d"
+  },
+  "Timestamp": "9/7/2020 11:43",
+  "Choose your gender": "Male",
+  "Age": 24,
+  "What is your course?": "BIT",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd18e"
+  },
+  "Timestamp": "9/7/2020 11:57",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "KOE",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd18f"
+  },
+  "Timestamp": "9/7/2020 13:15",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd190"
+  },
+  "Timestamp": "9/7/2020 18:24",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Human Sciences ",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd191"
+  },
+  "Timestamp": "13/07/2020 10:07:32",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Biotechnology",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "0 - 1.99",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd192"
+  },
+  "Timestamp": "13/07/2020 10:10:30",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 4",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd193"
+  },
+  "Timestamp": "13/07/2020 10:11:26",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Communication ",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd194"
+  },
+  "Timestamp": "13/07/2020 10:12:18",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Diploma Nursing",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd195"
+  },
+  "Timestamp": "13/07/2020 10:12:26",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd196"
+  },
+  "Timestamp": "13/07/2020 10:12:28",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Pendidikan Islam ",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd197"
+  },
+  "Timestamp": "13/07/2020 10:14:46",
+  "Choose your gender": "Male",
+  "Age": 23,
+  "What is your course?": "Radiography",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd198"
+  },
+  "Timestamp": "13/07/2020 10:33:47",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "psychology",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "Yes"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd199"
+  },
+  "Timestamp": "13/07/2020 10:34:08",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Fiqh fatwa ",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd19a"
+  },
+  "Timestamp": "13/07/2020 11:46:13",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "psychology",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd19b"
+  },
+  "Timestamp": "13/07/2020 11:49:02",
+  "Choose your gender": "Male",
+  "Age": 24,
+  "What is your course?": "BIT",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd19c"
+  },
+  "Timestamp": "13/07/2020 11:54:58",
+  "Choose your gender": "Male",
+  "Age": 24,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "2.00 - 2.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd19d"
+  },
+  "Timestamp": "13/07/2020 13:57:11",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "DIPLOMA TESL",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd19e"
+  },
+  "Timestamp": "13/07/2020 14:38:12",
+  "Choose your gender": "Male",
+  "Age": 18,
+  "What is your course?": "Koe",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd19f"
+  },
+  "Timestamp": "13/07/2020 14:48:05",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "KOE",
+  "Your current year of Study": "year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd1a0"
+  },
+  "Timestamp": "13/07/2020 16:15:13",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "BENL",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd1a1"
+  },
+  "Timestamp": "13/07/2020 17:30:44",
+  "Choose your gender": "Female",
+  "Age": 24,
+  "What is your course?": "Fiqh",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "0 - 1.99",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd1a2"
+  },
+  "Timestamp": "13/07/2020 19:08:32",
+  "Choose your gender": "Female",
+  "Age": 18,
+  "What is your course?": "Islamic Education",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd1a3"
+  },
+  "Timestamp": "13/07/2020 19:56:49",
+  "Choose your gender": "Female",
+  "Age": 21,
+  "What is your course?": "BCS",
+  "Your current year of Study": "year 1",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd1a4"
+  },
+  "Timestamp": "13/07/2020 21:21:42",
+  "Choose your gender": "Male",
+  "Age": 18,
+  "What is your course?": "Engineering",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "Yes",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd1a5"
+  },
+  "Timestamp": "13/07/2020 21:22:56",
+  "Choose your gender": "Female",
+  "Age": 19,
+  "What is your course?": "Nursing ",
+  "Your current year of Study": "Year 3",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "Yes",
+  "Do you have Depression?": "Yes",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "Yes",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd1a6"
+  },
+  "Timestamp": "13/07/2020 21:23:57",
+  "Choose your gender": "Female",
+  "Age": 23,
+  "What is your course?": "Pendidikan Islam",
+  "Your current year of Study": "year 4",
+  "What is your CGPA?": "3.50 - 4.00",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+},
+{
+  "_id": {
+    "$oid": "6655d6342d4aa9c5bf9dd1a7"
+  },
+  "Timestamp": "18/07/2020 20:16:21",
+  "Choose your gender": "Male",
+  "Age": 20,
+  "What is your course?": "Biomedical science",
+  "Your current year of Study": "Year 2",
+  "What is your CGPA?": "3.00 - 3.49",
+  "Marital status": "No",
+  "Do you have Depression?": "No",
+  "Do you have Anxiety?": "No",
+  "Do you have Panic attack?": "No",
+  "Did you seek any specialist for a treatment?": "No"
+}]
